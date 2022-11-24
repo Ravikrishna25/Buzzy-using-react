@@ -218,7 +218,7 @@ export default function Home() {
                 }}
                 align="center"
               >
-                SELECT BUSes
+                SELECT BUZZZ
               </Button>
                 </Link>
           </Grid>
