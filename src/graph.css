@@ -1,0 +1,36 @@
+.container{
+    float:left;
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-right: 25px;
+   
+}
+.CARD{
+    border-radius: 50px;
+}
+
+.content{
+    /* margin-top: 43px;
+    margin-left: 35px; */
+    padding: 30px;
+   
+}
+.button:focus{
+    color: green;
+}
+/* .pay{
+    margin-top: 10px;
+    margin-left: 500px;
+} */
+.text{
+    background-color: aquamarine;
+    margin-left: 5px;
+    border-radius: 25px;
+    margin-right: 5px;
+    display: flex;
+    justify-content: center;
+    
+} 
+/* .text_content{
+    margin-left: 500px;
+} */
