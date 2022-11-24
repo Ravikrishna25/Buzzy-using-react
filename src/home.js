@@ -112,7 +112,7 @@ export default function Home() {
       > 
         <Grid align="center">
           <Typography variant="h3" padding={3} sx={{ color: "#ffffff" }}>
-            BUZZY...
+            BUZZY
           </Typography>
         </Grid>
         <form onSubmit={handleSubmit}>
